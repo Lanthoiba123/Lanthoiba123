@@ -1,3 +1,4 @@
+![logo](https://github.com/Lanthoiba123/Lanthoiba123/blob/main/my%20banner.JPEG)
 <h1 align="center">Hi 👋, I'm Konthoujam Lanthoiba</h1>
 <h3 align="center">I'm a passionate web developer specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). I enjoy creating efficient, scalable, and user-friendly web applications with a keen focus on **UI/UX design**. ## 🚀 About Me -</h3>
 
